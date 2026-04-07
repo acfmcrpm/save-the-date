@@ -3,14 +3,13 @@ body {
   background: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
 }
-
 .container {
   max-width: 600px;
   padding: 60px 40px 40px 60px;
   font-size: 18px;
-  line-height: 1.15; /* was ~1.35 → tighter */
+  line-height: 1.15;
   text-transform: lowercase;
-}
+  border: 1px solid black; /* added */
 
 }
 
