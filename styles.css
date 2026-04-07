@@ -6,9 +6,10 @@ body {
 
 .container {
   max-width: 600px;
-  padding: 80px 40px 40px 80px;
+  padding: 80px 40px 40px 60px; /* slightly reduced left */
   font-size: 18px;
-  line-height: 1.35;
+  line-height: 1.15; /* was ~1.35 → tighter */
+
 }
 
 p {
