@@ -10,7 +10,6 @@ body {
   padding: 32px 24px 24px 32px;
   font-size: 18px;
   line-height: 1.15;
-  text-transform: lowercase;
   border: 1px solid black;
 }
 
