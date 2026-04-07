@@ -6,7 +6,7 @@ body {
 
 .container {
   max-width: 640px;
-  padding: 40px 40px 40px 40px;
+  padding: 40px 40px 40px 60px;
   font-size: 24px;
   line-height: 1.08;
   letter-spacing: -0.005em;
