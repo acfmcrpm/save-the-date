@@ -6,7 +6,7 @@ body {
 
 .container {
   max-width: 600px;
-  padding: 80px 40px 40px 60px; /* slightly reduced left */
+  padding: 80px 40px 40px 50px;
   font-size: 18px;
   line-height: 1.15; /* was ~1.35 → tighter */
 
