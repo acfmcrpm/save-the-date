@@ -9,6 +9,8 @@ body {
   padding: 60px 40px 40px 60px;
   font-size: 18px;
   line-height: 1.15; /* was ~1.35 → tighter */
+  text-transform: lowercase;
+}
 
 }
 
