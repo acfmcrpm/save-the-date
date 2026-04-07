@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background: #ffffff;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  padding: 40px;
+}
+
+p {
+  font-size: 20px;
+  margin: 0 0 12px 0;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
